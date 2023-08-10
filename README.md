@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eb6f92&lines=Hello+my+name+is+Ragava+Krishnan!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eb6f92&lines=Hello+my+name+is+Ragava+Krishnan!+iOS+Engineer)](https://git.io/typing-svg)
 
 ![Ragav's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavakrishnanns13&theme=synthwave)
 
