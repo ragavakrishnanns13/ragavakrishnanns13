@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eb6f92&lines=Hello+my+name+is+Ragava+Krishnnan)](https://git.io/typing-svg)
 
 # 💫 About Me:
-⚡︎ I am currently pursuing a Bachelor of Engineering in Computer Science at Rajalakshmi Engineering College in Chennai. As a passionate iOS and Full-stack Web developer, I am also interested in exploring Cloud Computing.<br> 
+Hello there, my name is Ragava Krishnan. 🙋‍♂️
+I am a passionate Full-Stack and iOS Developer who writes clean, optimal Java code. 💻
+I always seek opportunities to learn and contribute my skills to open-source projects. 🤝
+Although I am interested in designing interfaces and enhancing user experience, I plan to learn more about it in the future. 🎨
+I am a team player with leadership qualities, and I possess excellent communication skills. 👥💬<br> 
 
 
 ## 🌐 Socials:
